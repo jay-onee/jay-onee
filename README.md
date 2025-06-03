@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 🌍 참여 중인 프로젝트
+-[ICE-STUDYRES/ice-studyroom](https://github.com/ICE-STUDYRES/ice-studyroom)
 <!--
 **jay-onee/jay-onee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
