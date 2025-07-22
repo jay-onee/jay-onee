@@ -15,6 +15,6 @@
 
 ### ▎🛠 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,figma,anaconda,linux,ubuntu,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,figma,postman,anaconda,linux,ubuntu,docker)](https://skillicons.dev)
 
 <br>
